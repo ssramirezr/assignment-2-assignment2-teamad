@@ -13,7 +13,7 @@ CYK Algorithm for Context-Free Grammar Parsing
 
 •	Tools: 
     PyCharm 2023.1.4 
-    GitHub (https://github.com/edgarlarios/Algoritmo-CYK) 
+    GitHub (https://github.com/SofiAlfonso/LFC2_CYK.git) 
     Dexter C. Kozen, Automata and Computability
 
 
